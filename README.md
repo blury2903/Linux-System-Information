@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project aims to use the BeagleBone Black (BBB) to bring up an ILI9341 display and dynamically display real-time Linux system information, including CPU, memory, operating system details, and more. 
+This project utilizes a BeagleBone Black (BBB) to interface with an ILI9341 LCD for displaying real-time Linux system information, including CPU usage, memory statistics, and operating system details. The application interface is developed using Qt/QML. 
 ## Main Components
 
 - **BeagleBone Black:** A powerful embedded computer using an ARM Cortex-A8.
